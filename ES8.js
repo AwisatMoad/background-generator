@@ -1,3 +1,4 @@
+console.log("1");
 console.log("video N' 150");
 
 let obj = {
